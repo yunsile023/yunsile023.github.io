@@ -85,8 +85,3 @@ permalink: /:year/:month/:day/:title.html
 
 # Plugins
 plugins: [jekyll-paginate]
-
-deploy:
-  type: git
-  repo:
-    github: git@github.com:edeity/blog.git,gh-pages
